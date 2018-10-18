@@ -4,10 +4,10 @@ MercersKitchen High School Students mentoring Elementary and Kindergarten Studen
 **UNDER CONSTRUCTION**
 
 Table of Content
-- Ken's To Do List, <a href="">Click Here</a>
-- Mark's To Do List, <a href="">Click Here</a>
-- Progression, <a href="">Click Here</a>
-- General Ideas, <a href="">Click Here</a>
+- Ken's To Do List, <a href="https://github.com/MercersKitchen/Website-Mentoring#kens-to-do-list">Click Here</a>
+- Mark's To Do List, <a href="https://github.com/MercersKitchen/Website-Mentoring#marks-to-do-list">Click Here</a>
+- Progression, <a href="https://github.com/MercersKitchen/Website-Mentoring#progression">Click Here</a>
+- General Ideas, <a href="https://github.com/MercersKitchen/Website-Mentoring#to-do-lists">Click Here</a>
 
 Main Idea: Pilot of 22 Grade 5 students, a Kindergarten Class, and High School Students to ...
 - "Publish Personal Portfolios and shape an online personality."
