@@ -57,7 +57,8 @@ Webpage Template
 - Boilerplate, Commenting, style and script files (ordering to overwrite so defaults are able to be changed but not overwritten)
 - Write more HMTL Examples, <a href="https://github.com/MercersKitchen/CS10/tree/master/Websites/HTML%20Resources/HTML%20Examples">Click Here for CS10 Pathway</a>
   - Combined Template
-  - Individual Pieces, prototyping 
+  - Individual Pieces, prototyping
+  - Headings vs Paragraphs, lists, images, etc.
 - Spaces for Title, Image, Text
   - Use DIVs, HTML Layout
   - Include red boarder so students see "space"
@@ -72,5 +73,7 @@ Webpage Template
 Single Page Webpages, hosted to GitHub, Promotional or Portfolio
 
 Explore how students host and maintain community websites
+
+See: https://css-tricks.com/helping-a-beginner-understand-getting-a-website-live/
 
 ---
