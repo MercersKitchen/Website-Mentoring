@@ -10,12 +10,12 @@ Table of Content
 - General Ideas, <a href="https://github.com/MercersKitchen/Website-Mentoring#to-do-lists">Click Here</a>
 
 Main Idea: Pilot of 22 Grade 5 students, a Kindergarten Class, and High School Students to ...
-- "Publish Personal Portfolios and shape an online personality."
+- "Publish Personal Portfolios and shape an online personality, digital presence."
 - How do Grade 5 Students with limited HTML5 skills and *Chromebooks* build a Webpage?
 - How do Grade 5 Students build and showcase a Kindergarten Celebration through a Website (multiple webpages)?
-- How do students host built website with *Chromebooks*?
-- How do Grade 5 Students develop content, digital and paper and pencil, for a webpage?
-- How do High School Students support and help trouble shoot issues of Grade 5 Students
+- How do students host built a website with *Chromebooks*?
+- How do Grade 5 Students develop content (digital, paper & pencil), for a webpage?
+- How do High School Students support and help troubleshoot issues of Grade 5 Students
   - Optimal Group Size
   - Field Trip Issues
   - Mentoring: Communication and Patience around technology
@@ -66,4 +66,5 @@ Webpage Template
 Single Page Webpages, hosted to GitHub, Promotional or Portfolio
 
 Explore how students host and maintain community websites
+
 ---
