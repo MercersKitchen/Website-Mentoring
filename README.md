@@ -55,6 +55,14 @@ General
 
 ## Progression
 
+Ken and Mark meet to discuss
+- Appropriate Celebration for images to be taken of
+- Time and needs to prototype workflow and webpages
+- Technology options and communication between buildings
+- Field trip of students so Grade 5 students have mentors to help them
+  - Best seating arrangements more mentoring many students at a time and so students are able to quickly see each other's screens
+  - Time and dates for students to meet
+
 Webpage Template
 - Boilerplate, Commenting, style and script files (ordering to overwrite so defaults are able to be changed but not overwritten)
 - Write more HMTL Examples, <a href="https://github.com/MercersKitchen/CS10/tree/master/Websites/HTML%20Resources/HTML%20Examples">Click Here for CS10 Pathway</a>
@@ -70,6 +78,13 @@ Webpage Template
 - Text Considerations
 
 ## Resources being used
+
+
+
+# Actual Timelines and Implementation
+- Proof of Concept: Hosing a Website from a Raspberry Pi within Mercer's Kitchen (completed my Mr. Mercer and Student)
+- Proof of Concept (Not Done Yet): GitHub Signup, Sign in, Chrome Editors for HTML (Maybe CSS)
+
 
 ---
 
