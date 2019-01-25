@@ -9,8 +9,6 @@ Table of Content
 - Mark's To Do List, <a href="https://github.com/MercersKitchen/Website-Mentoring#marks-to-do-list">Click Here</a>
 - Progression, <a href="https://github.com/MercersKitchen/Website-Mentoring#progression">Click Here</a>
 
-
-
 Main Idea: Pilot of 22 Grade 5 students, a Kindergarten Class, and High School Students to ...
 - "Publish Personal Portfolios and shape an online personality, digital presence."
 - How do Grade 5 Students with limited HTML5 skills and *Chromebooks* build a Webpage?
@@ -27,9 +25,9 @@ Main Idea: Pilot of 22 Grade 5 students, a Kindergarten Class, and High School S
 **Purpose**
 - Build a Webpage: Title, Image, Text
 - Add More advanced skills: .gif, YouTube,
-- Build Website
+- Build Website, class of webpages
 - Use Online Services, like GitHub
-- Build Webserver and Maintain Web Documents, using EPS IT INfrastrucutre
+- Build Webserver and Maintain Web Documents, using EPS IT Infrastructure
 
 ## To Do Lists
 
@@ -84,6 +82,9 @@ Webpage Template
 # Actual Timelines and Implementation
 - Proof of Concept: Hosing a Website from a Raspberry Pi within Mercer's Kitchen (completed my Mr. Mercer and Student)
 - Proof of Concept (Not Done Yet): GitHub Signup, Sign in, Chrome Editors for HTML (Maybe CSS)
+  - With Ken only
+  - With mentors and mentees
+- 
 
 
 ---
