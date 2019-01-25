@@ -49,6 +49,7 @@ General
 - Explore online tools for image and text content
   - Pixeler? Talk with Isaiah
   - Online tools for image resizers, cropping tools
+- Explore Work Experience Credits or CS Practicum Credits for Student Mentors
 -
 
 ## Progression
@@ -81,11 +82,14 @@ Webpage Template
 
 # Actual Timelines and Implementation
 - Proof of Concept: Hosing a Website from a Raspberry Pi within Mercer's Kitchen (completed my Mr. Mercer and Student)
+  - Raspberry Pi, running LAMP
+  - Student Website (Innovate by Arron Dublenko, written by Marc Boivin, 2019)
 - Proof of Concept (Not Done Yet): GitHub Signup, Sign in, Chrome Editors for HTML (Maybe CSS)
   - With Ken only
   - With mentors and mentees
-- 
+-
 
+Revisit progression after Spring Break - what still needs to be completed
 
 ---
 
