@@ -4,16 +4,18 @@ MercersKitchen High School Students mentoring Elementary and Kindergarten Studen
 **UNDER CONSTRUCTION**
 
 Table of Content
+- General Ideas, <a href="https://github.com/MercersKitchen/Website-Mentoring#to-do-lists">Click Here</a>
 - Ken's To Do List, <a href="https://github.com/MercersKitchen/Website-Mentoring#kens-to-do-list">Click Here</a>
 - Mark's To Do List, <a href="https://github.com/MercersKitchen/Website-Mentoring#marks-to-do-list">Click Here</a>
 - Progression, <a href="https://github.com/MercersKitchen/Website-Mentoring#progression">Click Here</a>
-- General Ideas, <a href="https://github.com/MercersKitchen/Website-Mentoring#to-do-lists">Click Here</a>
+
+
 
 Main Idea: Pilot of 22 Grade 5 students, a Kindergarten Class, and High School Students to ...
 - "Publish Personal Portfolios and shape an online personality, digital presence."
 - How do Grade 5 Students with limited HTML5 skills and *Chromebooks* build a Webpage?
-- How do Grade 5 Students build and showcase a Kindergarten Celebration through a Website (multiple webpages)?
-- How do students host built a website with *Chromebooks*?
+- How do Grade 5 Students build and showcase a Kindergarten Celebration, or another celebration, through a Website (multiple webpages)?
+- How do students host a built website with *Chromebooks*?
 - How do Grade 5 Students develop content (digital, paper & pencil), for a webpage?
 - How do High School Students support and help troubleshoot issues of Grade 5 Students
   - Optimal Group Size
@@ -26,8 +28,8 @@ Main Idea: Pilot of 22 Grade 5 students, a Kindergarten Class, and High School S
 - Build a Webpage: Title, Image, Text
 - Add More advanced skills: .gif, YouTube,
 - Build Website
-- Use Online Services
-- Build Webserver and Maintain Web Documents
+- Use Online Services, like GitHub
+- Build Webserver and Maintain Web Documents, using EPS IT INfrastrucutre
 
 ## To Do Lists
 
@@ -67,6 +69,8 @@ Webpage Template
   - Aspect Ratio Calculations
 - Text Considerations
 
+## Resources being used
+
 ---
 
 # Ideas to Include
@@ -75,5 +79,7 @@ Single Page Webpages, hosted to GitHub, Promotional or Portfolio
 Explore how students host and maintain community websites
 
 See: https://css-tricks.com/helping-a-beginner-understand-getting-a-website-live/
+
+Michael to help for questions
 
 ---
