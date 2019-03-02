@@ -1,6 +1,27 @@
 # Website Mentoring
 MercersKitchen High School Students mentoring Elementary and Kindergarten Students
 
+**Purpose:** Introduction to HTML with CSS and JS File additions for exploration
+- Portfolio Development and Promotion for Business
+
+**Dev Outreach** Files and <a href="https://github.com/Dev-Outreach/Introduction-Static-HTML">Repository</a>
+
+Intended Hardware and Software
+- Chromebooks: access HTML5 editors and copy-paste contents to GitHub for Website Update
+- GitHub: file version control and webhosting
+
+Intended Project
+- Content
+  - Grade 5 Students start to describe themselves, attending to a <a href="http://www.2learn.ca/ydp/digcitizen.aspx">digital presence</a> and <a href="http://www.2learn.ca/ydp/">cyber citizenship</a>
+  - Grade 5 Students attend a School Celebration: summarize the celebration, record an image, comment on the image
+- Using the Template Create a Portfolio page of the experience
+- On their page, link to others' pages and experiences, creating an interconnected experience
+
+### Expectations
+
+
+---
+
 **UNDER CONSTRUCTION**
 
 Table of Content
