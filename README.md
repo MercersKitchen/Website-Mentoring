@@ -103,3 +103,39 @@ See: https://css-tricks.com/helping-a-beginner-understand-getting-a-website-live
 Michael to help for questions
 
 ---
+
+Exemplary Project Expectations, Notes, and Wish List
+
+Project Expectations
+- Static index.html hosted to GitHub
+- Responsive between Mobile and Desktop Monitor (1080P and irrelevant larger screens)
+- CSS File that is referenced to GitHub Repository (overwritten with inline .css)
+- JavaScript File also referenced to GitHub Repository (Easter Egg Functionality, to be reviewed with parents and other stakeholders)
+- JavaScript File also traverses DOM to check if elements are present
+  - URL added query with checks (for teacher or parent to review what is completed vs. expectations)
+  - Will check if JavaScript is enabled on the browser
+- Student chooses Chrome Extensions or Text Editor and copy | paste work to GitHub
+- Features List (Minimum List)
+  - Title
+  - Name
+  - Grade
+  - Who Am I (Digital Presence)
+  - Celebration Explained
+  - Image | Video with Captions
+Tag Legend
+- H1: Title
+- H2: Name
+- H3: Grade
+- H4: Digital Presence (Who Am I?)
+- UL: Text
+  - LI
+- IMG
+- p: image descriptions
+
+Teacher To Do List
+- Fonts (see Google Fonts, https://fonts.google.com/)
+- Colours (See School Colours and Colour Complimentary)
+- Demo Images and Videos
+- Demo Texts
+
+---
