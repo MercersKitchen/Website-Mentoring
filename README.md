@@ -176,14 +176,14 @@ Before Exiting Settings, record the URL
 
 Reference Assets through index.html
 CSS
-  - HTTP: <link rel="stylesheet" href="http://example.com/css/main.css">
-  - HTTPS: <link rel="stylesheet" href="https://example.com/css/main.css">
+  - HTTP: ```<link rel="stylesheet" href="http://example.com/css/main.css">```
+  - HTTPS: ```<link rel="stylesheet" href="https://example.com/css/main.css">```
 JavaScript
-  - HTTP: <script type="text/javascript" src="http://example.com/js/main.js"></script>
-  - HTTPS: <script type="text/javascript" src="https://example.com/js/main.js"></script>
+  - HTTP: ```<script type="text/javascript" src="http://example.com/js/main.js"></script>```
+  - HTTPS: ```<script type="text/javascript" src="https://example.com/js/main.js"></script>```
 Images and other similar Assets
-  - HTTP: <A HREF="http://www.somesite.com"><IMG SRC="http://www.example.com/logo.jpg" alt="Logo"></a>
-  - HTTPS: <A HREF="https://www.somesite.com"><IMG SRC="https://www.example.com/logo.jpg" alt="Logo"></a>
+  - HTTP: ```<A HREF="http://www.somesite.com"><IMG SRC="http://www.example.com/logo.jpg" alt="Logo"></a>```
+  - HTTPS: ```<A HREF="https://www.somesite.com"><IMG SRC="https://www.example.com/logo.jpg" alt="Logo"></a>```
 
 General Notes
 Notes: https://help.github.com/en/articles/what-is-github-pages
