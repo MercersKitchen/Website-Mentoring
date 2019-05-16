@@ -24,10 +24,6 @@ Intended Project
 ---
 
 **UNDER CONSTRUCTION**
-
-Table of Content
-- Progression, <a href="https://github.com/MercersKitchen/Website-Mentoring#progression">Click Here</a>
-
 Main Idea: using GitHub on Chromebook to develop and host a Webpage
 
 **Purpose**
@@ -45,14 +41,6 @@ General
 - HS Assets: RPi Student Expert in Hosting Websites, Websites Club
 
 ## Progression
-
-Ken and Mark meet to discuss
-- Appropriate Celebration for images to be taken of
-- Time and needs to prototype workflow and webpages
-- Technology options and communication between buildings
-- Field trip of students so Grade 5 students have mentors to help them
-  - Best seating arrangements more mentoring many students at a time and so students are able to quickly see each other's screens
-  - Time and dates for students to meet
 
 Webpage Template
 - Boilerplate, Commenting, style and script files (ordering to overwrite so defaults are able to be changed but not overwritten)
