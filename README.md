@@ -122,9 +122,9 @@ Images and other similar Assets
   - HTTPS: ```<A HREF="https://www.somesite.com"><IMG SRC="https://www.example.com/logo.jpg" alt="Logo"></a>```
 
 General Notes
-Notes: https://help.github.com/en/articles/what-is-github-pages
-Accessed: 20190501
-Uses HTM5, not PHP, Ruby, and Python
-Not larger than 1Gb
+- Notes: https://help.github.com/en/articles/what-is-github-pages
+- Accessed: 20190501
+- Uses HTM5, not PHP, Ruby, and Python
+- Not larger than 1Gb
 
 ---
