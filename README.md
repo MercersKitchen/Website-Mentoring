@@ -23,7 +23,10 @@ Intended Project
 
 ---
 
+# Mentoring Notes
+
 **UNDER CONSTRUCTION**
+
 Main Idea: using GitHub on Chromebook to develop and host a Webpage
 
 **Purpose**
